@@ -9,11 +9,22 @@
 \contentsline {section}{La sindrome del parcheggio}{12}% 
 \contentsline {section}{Il risveglio}{15}% 
 \contentsline {section}{Un messaggio da Firenze}{15}% 
-\contentsline {chapter}{L'isolamento della saggezza}{17}% 
-\contentsline {section}{Il saggio}{17}% 
-\contentsline {section}{La sacerdotessa}{17}% 
-\contentsline {section}{La sottomissione}{17}% 
-\contentsline {section}{Il braccio destro}{17}% 
-\contentsline {chapter}{Idee contrastanti}{19}% 
-\contentsline {section}{La nascita dell'impero}{19}% 
-\contentsline {section}{il covo della resistenza}{19}% 
+\contentsline {chapter}{L'isolamento della saggezza}{21}% 
+\contentsline {section}{Il saggio}{21}% 
+\contentsline {section}{La sacerdotessa}{21}% 
+\contentsline {section}{La sottomissione}{21}% 
+\contentsline {section}{Il braccio destro}{22}% 
+\contentsline {section}{Buon anno! (2145)}{22}% 
+\contentsline {chapter}{Idee contrastanti}{23}% 
+\contentsline {section}{La nascita dell'impero europeo (2150)}{23}% 
+\contentsline {section}{La chiocciola}{23}% 
+\contentsline {section}{il covo della resistenza}{23}% 
+\contentsline {chapter}{L'alba}{25}% 
+\contentsline {section}{Cos'\IeC {\`e} successo?}{25}% 
+\contentsline {section}{Allenati!}{25}% 
+\contentsline {section}{E ora?}{25}% 
+\contentsline {chapter}{E' guerra}{27}% 
+\contentsline {section}{L'inizio della resistenza}{27}% 
+\contentsline {section}{Il quartier generale \IeC {\`e} sparito, morte di Sirio}{27}% 
+\contentsline {section}{Il sacrifico di Rora per Mancini}{27}% 
+\contentsline {section}{Zitto coglione}{27}% 

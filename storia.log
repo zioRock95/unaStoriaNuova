@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.3.15)  15 MAY 2019 19:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.3.15)  15 MAY 2019 20:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -182,18 +182,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 4.
-)
+
+[3])
 \tf@toc=\write3
 \openout3 = `storia.toc'.
 
-
-[3]
+ [4]
 \openout2 = `cap/c1.aux'.
 
- (./cap/c1.tex [4
+ (./cap/c1.tex [5
 
 
-] [5] [6] [7] [8]) [9]
+] [6] [7] [8]) [9]
 \openout2 = `cap/c2.aux'.
 
  (./cap/c2.tex [10
@@ -201,30 +201,35 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ] [11] [12]
-[13] [14]) [15] [16
+[13] [14] [15] [16] [17] [18]) [19] [20
 
 
-] [17] [18
+] [21] [22] [23
 
-] [19] (./storia.aux (./cap/c1.aux) (./cap/c2.aux)) ) 
+] [24
+
+] [25] [26
+
+] [27]
+(./storia.aux (./cap/c1.aux) (./cap/c2.aux)) ) 
 Here is how much of TeX's memory you used:
- 1989 strings out of 492616
- 26223 string characters out of 6135177
+ 1990 strings out of 492616
+ 26241 string characters out of 6135177
  120135 words of memory out of 5000000
- 5905 multiletter control sequences out of 15000+600000
+ 5906 multiletter control sequences out of 15000+600000
  8854 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,6n,23p,1291b,194s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
-/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
-Output written on storia.pdf (19 pages, 101983 bytes).
+ 23i,6n,23p,1291b,237s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
+fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsl10.pfb>
+Output written on storia.pdf (27 pages, 116290 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
+ 115 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
