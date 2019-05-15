@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.3.15)  15 MAY 2019 19:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.3.15)  15 MAY 2019 19:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -193,26 +193,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  (./cap/c1.tex [4
 
 
-] [5] [6] [7]) [8]
+] [5] [6] [7] [8]) [9]
 \openout2 = `cap/c2.aux'.
 
- (./cap/c2.tex [9
+ (./cap/c2.tex [10
 
 
 
-] [10] [11] [12])
-[13] [14
+] [11] [12]
+[13] [14]) [15] [16
 
 
-] [15] [16
+] [17] [18
 
-] [17] (./storia.aux (./cap/c1.aux) (./cap/c2.aux)) ) 
+] [19] (./storia.aux (./cap/c1.aux) (./cap/c2.aux)) ) 
 Here is how much of TeX's memory you used:
- 1988 strings out of 492616
- 26208 string characters out of 6135177
- 120134 words of memory out of 5000000
- 5904 multiletter control sequences out of 15000+600000
- 8547 words of font info for 30 fonts, out of 8000000 for 9000
+ 1989 strings out of 492616
+ 26223 string characters out of 6135177
+ 120135 words of memory out of 5000000
+ 5905 multiletter control sequences out of 15000+600000
+ 8854 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  23i,6n,23p,1291b,194s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fon
@@ -221,10 +221,10 @@ c/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
 /share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
-Output written on storia.pdf (17 pages, 99673 bytes).
+Output written on storia.pdf (19 pages, 101983 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 90 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

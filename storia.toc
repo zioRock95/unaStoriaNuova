@@ -4,16 +4,16 @@
 \contentsline {section}{Il Club di AJG}{5}% 
 \contentsline {section}{Il raduno}{6}% 
 \contentsline {section}{Fuga da Firenze}{8}% 
-\contentsline {chapter}{Il regno di Sarcina}{9}% 
-\contentsline {section}{Una strana morte}{9}% 
-\contentsline {section}{La sindrome del parcheggio}{10}% 
-\contentsline {section}{Il risveglio}{13}% 
-\contentsline {section}{Un messaggio da Firenze}{13}% 
-\contentsline {chapter}{L'isolamento della saggezza}{15}% 
-\contentsline {section}{Il saggio}{15}% 
-\contentsline {section}{La sacerdotessa}{15}% 
-\contentsline {section}{La sottomissione}{15}% 
-\contentsline {section}{Il braccio destro}{15}% 
-\contentsline {chapter}{Idee contrastanti}{17}% 
-\contentsline {section}{La nascita dell'impero}{17}% 
-\contentsline {section}{il covo della resistenza}{17}% 
+\contentsline {chapter}{Il regno di Sarcina}{11}% 
+\contentsline {section}{Una strana morte}{11}% 
+\contentsline {section}{La sindrome del parcheggio}{12}% 
+\contentsline {section}{Il risveglio}{15}% 
+\contentsline {section}{Un messaggio da Firenze}{15}% 
+\contentsline {chapter}{L'isolamento della saggezza}{17}% 
+\contentsline {section}{Il saggio}{17}% 
+\contentsline {section}{La sacerdotessa}{17}% 
+\contentsline {section}{La sottomissione}{17}% 
+\contentsline {section}{Il braccio destro}{17}% 
+\contentsline {chapter}{Idee contrastanti}{19}% 
+\contentsline {section}{La nascita dell'impero}{19}% 
+\contentsline {section}{il covo della resistenza}{19}% 
