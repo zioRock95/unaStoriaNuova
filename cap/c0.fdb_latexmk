@@ -1,0 +1,9 @@
+# Fdb version 3
+["pdflatex"] 1557954831 "c0.tex" "c0.pdf" "c0" 1557954831
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1550406775 33301 a3134070eacafb10b1f371612ce2650d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1552655230 7919196 5eef4baa5637073fec08bc8401bd92f2 ""
+  "c0.aux" 1557954780 821 e9c336c4716a135f31af82bba5505a34 ""
+  "c0.tex" 1557954831 772 835b990754a9aa38397de33d24328ed3 ""
+  (generated)
+  "c0.log"
+  "c0.pdf"

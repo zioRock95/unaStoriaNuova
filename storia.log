@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.3.15)  15 MAY 2019 20:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.3.15)  16 MAY 2019 00:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -106,7 +106,9 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@randommax=\count113
 \c@blind@pangramcount=\count114
 \c@blind@pangrammax=\count115
-) (./storia.aux (./cap/c1.aux) (./cap/c2.aux))
+) (./storia.aux (./cap/c0.aux) (./cap/c1.aux) (./cap/c2.aux) (./cap/c3.aux) (./
+cap/c4.aux) (./cap/c5.aux)
+(./cap/c6.aux))
 \openout1 = `storia.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -188,48 +190,80 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout3 = `storia.toc'.
 
  [4]
+\openout2 = `cap/c0.aux'.
+
+ (./cap/c0.tex) [5
+
+
+]
 \openout2 = `cap/c1.aux'.
 
- (./cap/c1.tex [5
+ (./cap/c1.tex [6
 
 
-] [6] [7] [8]) [9]
+
+] [7] [8] [9] [10]) [11]
 \openout2 = `cap/c2.aux'.
 
- (./cap/c2.tex [10
+
+(./cap/c2.tex [12
 
 
 
-] [11] [12]
-[13] [14] [15] [16] [17] [18]) [19] [20
+] [13] [14] [15] [16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+[18] [19] [20]) [21]
+\openout2 = `cap/c3.aux'.
+
+ (./cap/c3.tex [22
 
 
-] [21] [22] [23
 
-] [24
+] [23]) [24]
+\openout2 = `cap/c4.aux'.
 
-] [25] [26
+ (./cap/c4.tex) [25
 
-] [27]
-(./storia.aux (./cap/c1.aux) (./cap/c2.aux)) ) 
+
+
+]
+\openout2 = `cap/c5.aux'.
+
+
+(./cap/c5.tex [26
+
+
+
+]) [27]
+\openout2 = `cap/c6.aux'.
+
+ (./cap/c6.tex [28
+
+
+
+]) [29] (./storia.aux (./cap/c0.aux)
+(./cap/c1.aux) (./cap/c2.aux) (./cap/c3.aux) (./cap/c4.aux) (./cap/c5.aux)
+(./cap/c6.aux)) ) 
 Here is how much of TeX's memory you used:
- 1990 strings out of 492616
- 26241 string characters out of 6135177
- 120135 words of memory out of 5000000
- 5906 multiletter control sequences out of 15000+600000
- 8854 words of font info for 31 fonts, out of 8000000 for 9000
+ 2032 strings out of 492616
+ 26647 string characters out of 6135177
+ 124664 words of memory out of 5000000
+ 5912 multiletter control sequences out of 15000+600000
+ 9200 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  23i,6n,23p,1291b,237s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
-fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/font
-s/type1/public/amsfonts/cm/cmsl10.pfb>
-Output written on storia.pdf (27 pages, 116330 bytes).
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.p
+fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sl10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on storia.pdf (29 pages, 137179 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 79 compressed objects within 1 object stream
+ 125 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

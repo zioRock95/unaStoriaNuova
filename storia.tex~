@@ -13,60 +13,10 @@
 \tableofcontents
 
 \include{cap/c1} %%Il club di AJG
-\chapter{Il regno di Sarcina}
-\section{Una strana morte}
-"Mi spiace tu non sia potuto venire al raduno, è stato divertente!" - "Giusto, il raduno!" fu il primo pensiero del giorno di Benny quando lesse il messaggio di Sarcina sul telefono. Il giovane medico che operava a Roma fu visibilmente stupito dall'assenza di messaggi molesti sul gruppo. Cercò tra i membri: nessun bannato. Non fece in tempo a scendere di casa che il suo telefono squillò: era Gianluha.
+\include{cap/c2} %%Il regno di Sarcina
+\include{cap/c3} %%Isolamento saggezza
+\include{cap/c4} %%Idee contrastanti
+\include{cap/c5} %%L'alba
+\include{cap/c6} %%E' guerra
 
-"Mi serve una mano, Benny." - disse - "E' successo qualcosa di molto strano questa notte, mi serve il tuo parere da medico. E' una cosa seria. Puoi venire? Ti pago.", Benny sentì un brividio percorrergli tutta la schiena e la gola annodarsi, sospirò un secondo - "Ci sei?" - tentennò ancora un attimo e poi rispose: "Devo prendere un treno, davvero? E' sabato, non lavoro, ma avevo impegni personali. Quanto è seria la questione?". 
-Si percepì il nervosismo di Sarcina che dopo un stante tuonò: "Te lo dirò seriamente, prendi fiato, non svenire. Te lo dico è una cosa brutta, preparati: è morto un ospite." - Benny trattenne le emozioni il tempo esatto per dire che sarebbe corso a Firenze, poi attaccò il telefono e si sfogò un attimo.
-
-Il medico fece subito i biglietti in stazione e si mise a leggere un libro aspettando che il suo treno fosse pronto sul binario. Circa un'ora dopo si accomodò sul suo posto e scrisse i dettagli del viaggio a Sarcina via messaggio, chiedendo anche se sapesse qualcosa sul silenzio che regnava in AJG.
-La risposta fu pressoché immediata: "Troverai un auto pronta ad aspettarti in Santa Maria Novella. Per quanto riguarda AJG non so molto, ieri li ho lasciati tutti ubriachi, staranno ancora dormendo".
-Pensò che effettivamente erano solamente le 10 di mattina in un sabato qualsiasi, si mise l'anima in pace e tornò a leggere "*Titolo che potrebbe tornare utile come elemento*".
-
-Un paio d'ore dopo il treno annunciò il suo arrivo alla stazione fiorentina, prese la sua piccola valigia e aspettò lo stop del treno sulla porta di uscita. Appena scese dal mezzo notò un bagliore insolito in cielo, ma non ci diede molte attenzioni. Cercò subito di rintracciare l'auto che lo stava aspettando, fu abbastanza immediato: c'era solo un veicolo fermo sulla banchina, tutti gli altri sembravano disperatamente cercare parcheggio.
-Il viaggio fu privo di parole, Benny ne approfittò per continuare a leggere, passarano una decina di minuti quindi l'auto si fermò in doppia fila: non c'era parcheggio. 
-
-"Benny, caro, sono Gianluha!" - Sarcina lo aspettava sull'uscio della porta, invitandolo con caldi gesti ad avvicinarsi - "Vieni, ho preparato due spaghi per pranzo".
-Il clima sembrava totalmente diverso, il medico tentennò un po', poi si fece coraggio e si accomodò nella casa di Sarcina.
-
-\section{La sindrome del parcheggio}
-
-Il pranzo passò felicemente discutendo del più e del meno, Benny trovava il pasto ottimo e Sarcina intratteneva il suo ospite con un fare molto professionale. [Ampliare cosa del pranzo per definire le psicologie]
-Il pasto si concluse e con aria tetra Benny cercò di far capire a Gianluha le sue intenzioni: la curiosità iniziava ad aleggiare forte in lui.
-
-Sarcina porta il medico nella stanza [descrizione stanza] e chiude la porta dietro di lui, quindi con voce sicura gli punta un coltello nella schiena e dice soavemente a benny: "Ho ucciso Mancini con questo preciso coltello e Federica è nelle mie segrete. Salvo le fa compagnia nella cella di fianco, devi decidere se stare con me o fare coppia con Mancini." - Benny cauto disse: "Non ci vedo molta possibilità di scelta, cosa vuoi da me?"
-
-Il corpo del tossico, la luce che sparisce
-
-Gli occhi assenti ma non vitrei (elemento di stranezza 1)
-
-Il perfezionamento, gli occhi totalmente vuoti e l'inizio del regno
-
-Il sacco di firenze con la distruzione delle chiese
-\section{Il risveglio}
-Pola che trova parcheggio
-
-Gli sguardi incrociati (elemento 2) con gli altri assenti
-
-incontro con la sacerdotessa nelle rovine di santa maria diffiori
-\section{Un messaggio da Firenze}
-Rora scorge Luca 
-
-Rora manda messaggio a Sirio attraverso Luca
-
-\chapter{L'isolamento della saggezza}
-\section{Il saggio}
-Sirio
-\section{La sacerdotessa}
-Rora
-\section{La sottomissione}
-Fede
-\section{Il braccio destro}
-Salvo
-\chapter{Idee contrastanti}
-\section{La nascita dell'impero}
-Sfera e Squarta
-\section{il covo della resistenza}
-Rora, Sirio e Luca riuniti
 \end{document}
