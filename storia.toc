@@ -7,24 +7,26 @@
 \contentsline {chapter}{Il regno di Sarcina}{13}% 
 \contentsline {section}{Una strana morte}{13}% 
 \contentsline {section}{La sindrome del parcheggio}{14}% 
-\contentsline {section}{Il risveglio}{18}% 
-\contentsline {section}{Un messaggio da Firenze}{18}% 
+\contentsline {section}{Il risveglio}{19}% 
+\contentsline {section}{Un messaggio da Firenze}{19}% 
 \contentsline {chapter}{L'isolamento della saggezza}{23}% 
+\contentsline {section}{Buon anno! (2045)}{23}% 
 \contentsline {section}{Il saggio}{23}% 
-\contentsline {section}{La sacerdotessa}{23}% 
-\contentsline {section}{La sottomissione}{23}% 
+\contentsline {section}{La sacerdotessa}{24}% 
+\contentsline {section}{La sottomissione}{24}% 
 \contentsline {section}{Il braccio destro}{24}% 
-\contentsline {section}{Buon anno! (2145)}{24}% 
-\contentsline {chapter}{Idee contrastanti}{25}% 
-\contentsline {section}{La nascita dell'impero europeo (2150)}{25}% 
-\contentsline {section}{La chiocciola}{25}% 
-\contentsline {section}{il covo della resistenza}{25}% 
-\contentsline {chapter}{L'alba}{27}% 
+\contentsline {section}{Buona vigilia}{25}% 
+\contentsline {chapter}{Idee contrastanti}{27}% 
+\contentsline {section}{La nascita dell'impero europeo (2450)}{27}% 
 \contentsline {section}{Cos'\IeC {\`e} successo?}{27}% 
-\contentsline {section}{Allenati!}{27}% 
-\contentsline {section}{E ora?}{27}% 
-\contentsline {chapter}{E' guerra}{29}% 
+\contentsline {section}{La chiocciola}{27}% 
+\contentsline {section}{Il covo della resistenza}{27}% 
+\contentsline {chapter}{L'alba}{29}% 
+\contentsline {section}{Allenati!}{29}% 
+\contentsline {section}{E ora?}{29}% 
 \contentsline {section}{L'inizio della resistenza}{29}% 
-\contentsline {section}{Il quartier generale \IeC {\`e} sparito, morte di Sirio}{29}% 
-\contentsline {section}{Il sacrifico di Rora per Mancini}{29}% 
-\contentsline {section}{Zitto coglione}{29}% 
+\contentsline {chapter}{E' guerra}{31}% 
+\contentsline {section}{L'espansione della resistenza}{31}% 
+\contentsline {section}{Il quartier generale \IeC {\`e} sparito, morte di Sirio}{31}% 
+\contentsline {section}{Il sacrifico di Rora per Mancini}{31}% 
+\contentsline {section}{Zitto coglione}{31}% 
