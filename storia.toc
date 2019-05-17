@@ -2,31 +2,31 @@
 \babel@toc {italian}{}
 \contentsline {chapter}{La rovina del Mondo}{7}% 
 \contentsline {section}{Il Club di AJG}{7}% 
-\contentsline {section}{Il raduno}{8}% 
-\contentsline {section}{Fuga da Firenze}{10}% 
+\contentsline {section}{Il raduno}{9}% 
+\contentsline {section}{Fuga da Firenze}{11}% 
 \contentsline {chapter}{Il regno di Sarcina}{13}% 
 \contentsline {section}{Una strana morte}{13}% 
 \contentsline {section}{La sindrome del parcheggio}{14}% 
-\contentsline {section}{Il risveglio}{19}% 
-\contentsline {section}{Un messaggio da Firenze}{19}% 
-\contentsline {chapter}{L'isolamento della saggezza}{23}% 
-\contentsline {section}{Buon anno! (2045)}{23}% 
-\contentsline {section}{Il saggio}{23}% 
-\contentsline {section}{La sacerdotessa}{24}% 
-\contentsline {section}{La sottomissione}{24}% 
-\contentsline {section}{Il braccio destro}{24}% 
-\contentsline {section}{Buona vigilia}{25}% 
-\contentsline {chapter}{Idee contrastanti}{27}% 
-\contentsline {section}{La nascita dell'impero europeo (2450)}{27}% 
-\contentsline {section}{Cos'\IeC {\`e} successo?}{27}% 
-\contentsline {section}{La chiocciola}{27}% 
-\contentsline {section}{Il covo della resistenza}{27}% 
-\contentsline {chapter}{L'alba}{29}% 
-\contentsline {section}{Allenati!}{29}% 
-\contentsline {section}{E ora?}{29}% 
-\contentsline {section}{L'inizio della resistenza}{29}% 
-\contentsline {chapter}{E' guerra}{31}% 
-\contentsline {section}{L'espansione della resistenza}{31}% 
-\contentsline {section}{Il quartier generale \IeC {\`e} sparito, morte di Sirio}{31}% 
-\contentsline {section}{Il sacrifico di Rora per Mancini}{31}% 
-\contentsline {section}{Zitto coglione}{31}% 
+\contentsline {section}{Il risveglio}{18}% 
+\contentsline {section}{Un messaggio da Firenze}{21}% 
+\contentsline {chapter}{L'isolamento della saggezza}{25}% 
+\contentsline {section}{Buon anno! (2045)}{25}% 
+\contentsline {section}{Il saggio}{25}% 
+\contentsline {section}{La sacerdotessa}{26}% 
+\contentsline {section}{La sottomissione}{26}% 
+\contentsline {section}{Il braccio destro}{26}% 
+\contentsline {section}{Buona vigilia}{27}% 
+\contentsline {chapter}{Idee contrastanti}{29}% 
+\contentsline {section}{La nascita dell'impero europeo (2450)}{29}% 
+\contentsline {section}{Cos'\IeC {\`e} successo?}{29}% 
+\contentsline {section}{La chiocciola}{29}% 
+\contentsline {section}{Il covo della resistenza}{29}% 
+\contentsline {chapter}{L'alba}{31}% 
+\contentsline {section}{Allenati!}{31}% 
+\contentsline {section}{E ora?}{31}% 
+\contentsline {section}{L'inizio della resistenza}{31}% 
+\contentsline {chapter}{E' guerra}{33}% 
+\contentsline {section}{L'espansione della resistenza}{33}% 
+\contentsline {section}{Il quartier generale \IeC {\`e} sparito, morte di Sirio}{33}% 
+\contentsline {section}{Il sacrifico di Rora per Mancini}{33}% 
+\contentsline {section}{Zitto coglione}{33}% 

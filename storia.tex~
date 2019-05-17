@@ -2,6 +2,7 @@
 \usepackage[a5paper]{geometry}
 \usepackage[italian]{babel}
 \usepackage{sectsty}
+\usepackage{listings}
 \allsectionsfont{\bfseries}
 \setcounter{secnumdepth}{-1}
 \usepackage{blindtext}
@@ -11,7 +12,7 @@
 \begin{document}
 \maketitle
 \tableofcontents
-
+\include{cap/c0} %%Cazzate iniziali
 \include{cap/c1} %%Il club di AJG
 \include{cap/c2} %%Il regno di Sarcina
 \include{cap/c3} %%Isolamento saggezza
